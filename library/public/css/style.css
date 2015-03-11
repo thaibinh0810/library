@@ -1,0 +1,39 @@
+body{
+    background: silver;
+}
+
+#header{
+    padding: 20px;
+    background:gold;
+}
+
+
+#footer{
+    padding: 20px;
+    background: green;
+    clear: both;
+}
+#nav{
+    padding: 20px;
+    float: left;
+    width: 11%;
+    height: 400px;
+    background: blanchedalmond;
+}
+
+#content{
+    padding: 20px;
+    float:right;
+    width: 83%;
+    height:  400px;
+    background: aqua;
+}
+
+a:link, a:visited {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:link:active, a:visited:active {
+    color: blue;
+} 
